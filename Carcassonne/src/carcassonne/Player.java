@@ -1,9 +1,8 @@
-package carcassonne;
 
 
 class Player {
 	private static int DEFAULT_MEAPLE = 8;
-	private int meaple; //���Ԃ�Meapleobject����������
+	private int meaple; //実態はMeapleobjectを持たせる
 	private int score;
 
 
@@ -13,7 +12,7 @@ class Player {
 	}
 
 	/**
-	 * TODO:Game�N���X�ɂ���ĕύX
+	 * TODO:Gameクラスによって変更
 	 */
 	public void putMeaple(){
 		this.meaple--;
@@ -21,7 +20,7 @@ class Player {
 	}
 
 	/**
-	 * TODO:Game�N���X�ɂ���ĕύX
+	 * TODO:Gameクラスによって変更
 	 */
 	public void returnMeaple(){
 		this.meaple++;
