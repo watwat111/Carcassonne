@@ -1,5 +1,7 @@
 package ca;
 
 public class ca {
-	//aiueo
+	//筋肉ー
+
+
 }
