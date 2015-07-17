@@ -1,3 +1,5 @@
+package carcassonne;
+
 
 
 class Player {
